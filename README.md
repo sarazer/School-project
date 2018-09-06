@@ -48,9 +48,9 @@ Those with permeation, can view the managers, and create, update or delete rows.
 - set mysql connection in models/dal.php -> $dbDetails
 You are all set!
 
-In Order to log-in as: Owner please use email: sara052555@gmail.com  password: sara
-                       Manager please use email: dani@gmail.com  password: dani
-                       Sales please use email: shira@gmail.com  password: shira
+In Order to log-in as: - Owner please use email: sara052555@gmail.com  password: sara
+                       - Manager please use email: dani@gmail.com  password: dani
+                       - Sales please use email: shira@gmail.com  password: shira
 
 once you logged in you can create more users as you wish.
 
